@@ -3,3 +3,9 @@
 * {
 	font-family: Arial;
 }
+
+body {
+                text-align: center;
+                justify-content: center; /* Horizontal center */
+                font-family: "Helevitica", "Arial", sans-serif;
+            }
