@@ -8,4 +8,30 @@ body {
                 text-align: center;
                 justify-content: center; /* Horizontal center */
                 font-family: "Helevitica", "Arial", sans-serif;
+                background-color: #D2F7FF;
             }
+h1 {
+    text-align: center;
+    font-family: "Lustria", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #8b6c5c;
+}
+.button {
+    background-color: ghostwhite;
+    border: none;
+    color: #8b6c5c;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button a:link, 
+.button a:visted {
+    color: black;
+    text-decoration: none;
+}
+.button a: hover {
+    color: #8b8b8b
+}
